@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HO!Weather</string>
+    <string name="current">CURRENT</string>
+    <string name="humidity">HUMIDITY:</string>
+    <string name="wind_speed">WIND SPEED:</string>
+    <string name="sunrise">SUNRISE:</string>
+    <string name="sunset">SUNSET:</string>
+    <string name="forecast">FORECAST</string>
+    <string name="date">DATE</string>
+    <string name="status">STATUS</string>
+    <string name="high">HIGH</string>
+    <string name="low">LOW</string>
+    <string name="detail">DETAIL</string>
+    <string name="wind">WIND</string>
+    <string name="chill">CHILL:</string>
+    <string name="direction">DIRECTION:</string>
+    <string name="speed">SPEED:</string>
+    <string name="atmosphere">ATMOSPHERE</string>
+    <string name="pressure">PRESSURE:</string>
+    <string name="rising">RISING:</string>
+    <string name="visibility">VISIBILITY:</string>
+    <string name="geographic_location">GEOGRAPHIC LOCATION</string>
+    <string name="latitude">LATITUDE:</string>
+    <string name="longitude">LONGITUDE:</string>
+    <string name="address">ADDRESS:</string>
+    <string name="powered_by">POWERED BY </string>
+    <string name="yahoo_weather">YAHOO!WEATHER</string>
+    <string name="weather">Weather</string>
+</resources>

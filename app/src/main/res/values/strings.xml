@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HO!Weather</string>
+    <string name="current">当前</string>
+    <string name="humidity">湿度:</string>
+    <string name="wind_speed">风速:</string>
+    <string name="sunrise">日出:</string>
+    <string name="sunset">日落:</string>
+    <string name="forecast">预报</string>
+    <string name="date">日期</string>
+    <string name="status">状态</string>
+    <string name="high">高</string>
+    <string name="low">低</string>
+    <string name="detail">细节</string>
+    <string name="wind">风</string>
+    <string name="chill">寒意:</string>
+    <string name="direction">方向:</string>
+    <string name="speed">速度:</string>
+    <string name="atmosphere">大气</string>
+    <string name="pressure">压强:</string>
+    <string name="rising">上升气流:</string>
+    <string name="visibility">可见度:</string>
+    <string name="geographic_location">地理位置</string>
+    <string name="latitude">纬度:</string>
+    <string name="longitude">经度:</string>
+    <string name="address">地址:</string>
+    <string name="powered_by">POWERED BY </string>
+    <string name="yahoo_weather">YAHOO!WEATHER</string>
+    <string name="weather">天气</string>
+</resources>
