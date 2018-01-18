@@ -16,12 +16,15 @@ HO! Weather is an Android Weather  APP based on LBS, the API comes from **YAHOO!
 ## 原理 How it works
 
 1.通过腾讯地图定位SDK获得经度和纬度
-1.Get longitude and latitude through Tencent map positioning SDK
+
+1.Get longitude and latitude through Tencent map positioning SD
 
 2.将经度和纬度拼接雅虎天气API获得天气的JSON数据
+
 2.Merge the longitude and latitude to Yahoo weather API for the weather JSON data
 
 3.将JSON数据解析并展示到界面上
+
 3.Parse and display JSON data to the interface
 
 ## 相关项目Open Source Project
@@ -40,12 +43,15 @@ HO! Weather is an Android Weather  APP based on LBS, the API comes from **YAHOO!
 ## 联系我 Contact me 
 
 EMAIL:zhaoweihaochn@gmail.com
+
 WEBSITE:http://zhaoweihao.me
+
 ABOUT ME:http://zhaoweihao.me/about
 
 ## 请我喝咖啡 Offer me a cup of coffee
 
 :heart:[Alipay支付宝](http://op4e089f0.bkt.clouddn.com/1512475882201.jpg)
+
 :heart:[Paypal](https://www.paypal.me/zhaoweihao)
 
 ## 许可证 License
